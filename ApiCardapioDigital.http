@@ -1,0 +1,6 @@
+@ApiCardapioDigital_HostAddress = http://localhost:5263
+
+GET {{ApiCardapioDigital_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
